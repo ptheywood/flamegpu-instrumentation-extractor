@@ -1,0 +1,199 @@
+FLAMEGPU Console mode
+Initial states: ..\..\examples\Keratinocyte\iterations\0.xml
+Output dir: ..\..\examples\Keratinocyte\iterations\
+64Bit System Detected
+Allocating Host and Device memory
+Instrumentation: setConstants = 0.208640 (ms)
+Processing Simulation Step 1
+Instrumentation: keratinocyte_output_location = 17.759232 (ms)
+Instrumentation: keratinocyte_cycle = 0.351232 (ms)
+Instrumentation: keratinocyte_differentiate = 1.165312 (ms)
+Instrumentation: keratinocyte_death_signal = 1.054720 (ms)
+Instrumentation: keratinocyte_migrate = 0.992256 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.418816 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.523264 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 22.711296 (ms)
+Iteration 1 Saved to XML
+Processing Simulation Step 2
+Instrumentation: keratinocyte_output_location = 0.202752 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.340992 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.405504 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.271808 (ms)
+Iteration 2 Saved to XML
+Processing Simulation Step 3
+Instrumentation: keratinocyte_output_location = 0.227328 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001984 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.358400 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.442368 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.412096 (ms)
+Iteration 3 Saved to XML
+Processing Simulation Step 4
+Instrumentation: keratinocyte_output_location = 0.221184 (ms)
+Instrumentation: keratinocyte_cycle = 0.000992 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.370688 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.446464 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.417216 (ms)
+Iteration 4 Saved to XML
+Processing Simulation Step 5
+Instrumentation: keratinocyte_output_location = 0.276480 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.002048 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.363520 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.442368 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.603584 (ms)
+Iteration 5 Saved to XML
+Processing Simulation Step 6
+Instrumentation: keratinocyte_output_location = 0.265248 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.354304 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.396288 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.524736 (ms)
+Iteration 6 Saved to XML
+Processing Simulation Step 7
+Instrumentation: keratinocyte_output_location = 0.217088 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.408576 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.632832 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.819648 (ms)
+Iteration 7 Saved to XML
+Processing Simulation Step 8
+Instrumentation: keratinocyte_output_location = 0.174080 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.325632 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.410624 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.235968 (ms)
+Iteration 8 Saved to XML
+Processing Simulation Step 9
+Instrumentation: keratinocyte_output_location = 0.229376 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.663552 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.500736 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.982464 (ms)
+Iteration 9 Saved to XML
+Processing Simulation Step 10
+Instrumentation: keratinocyte_output_location = 0.283648 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.371712 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.454656 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.665024 (ms)
+Iteration 10 Saved to XML
+Processing Simulation Step 11
+Instrumentation: keratinocyte_output_location = 0.210944 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.492544 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.559104 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.830912 (ms)
+Iteration 11 Saved to XML
+Processing Simulation Step 12
+Instrumentation: keratinocyte_output_location = 0.226304 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.400384 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.451584 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.485824 (ms)
+Iteration 12 Saved to XML
+Processing Simulation Step 13
+Instrumentation: keratinocyte_output_location = 0.256000 (ms)
+Instrumentation: keratinocyte_cycle = 0.000000 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.389120 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.390144 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.498112 (ms)
+Iteration 13 Saved to XML
+Processing Simulation Step 14
+Instrumentation: keratinocyte_output_location = 0.176128 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.350208 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.394240 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.262592 (ms)
+Iteration 14 Saved to XML
+Processing Simulation Step 15
+Instrumentation: keratinocyte_output_location = 0.217088 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.372736 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.446464 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 1.507328 (ms)
+Iteration 15 Saved to XML
+Processing Simulation Step 16
+Instrumentation: keratinocyte_output_location = 0.525312 (ms)
+Instrumentation: keratinocyte_cycle = 0.001024 (ms)
+Instrumentation: keratinocyte_differentiate = 0.001024 (ms)
+Instrumentation: keratinocyte_death_signal = 0.001024 (ms)
+Instrumentation: keratinocyte_migrate = 0.001024 (ms)
+Instrumentation: keratinocyte_force_resolution_output = 0.674816 (ms)
+Instrumentation: keratinocyte_resolve_forces = 0.460800 (ms)
+agent_keratinocyte_default_count: 0
+agent_keratinocyte_resolve_count: 670
+Instrumentation: Iteration Time = 2.601984 (ms)
+Iteration 16 Saved to XML
+Total Processing time: 229.477371 (ms)
